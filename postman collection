@@ -1,0 +1,8 @@
+
+Post Mapping- to add single employee in pay load----> http://localhost:8080/employee/addEmployee
+Post Mapping- to add List of employee in pay load---->http://localhost:8080/employee/addEmployee
+Get Mapping- to get all employees ---->http://localhost:8080/employee/allEmployee
+Get Mapping- to get  employee by passing its id in url ---->http://localhost:8080/employee/employeeById/{id}
+Get Mapping- to get  employee by passing its name in url---> http://localhost:8080/employee/employeeByName/{name}
+Put Mapping- to update  employee ---> http://localhost:8080/employee/update
+Delete Mapping- to delete  employee by passing its id in url---> http://localhost:8080/employee/delete/{id}
